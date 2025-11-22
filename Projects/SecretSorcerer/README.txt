@@ -1,1 +1,1 @@
-Here are a few screen shots from the flutter game Secret Sorcerer. More will be upload after UI polishing.
+Here are a few screen shots from the flutter game Secret Sorcerer. This entire game passes states through firebase and helps sync all players to the game properly. More will be upload after UI polishing.
